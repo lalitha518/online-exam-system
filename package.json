@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://blatha518.github.io/online-exam-system",
+  "homepage": "https://lalitha518.github.io/online-exam-system",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
