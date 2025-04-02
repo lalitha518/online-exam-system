@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/online-exam-system/static/css/main.36ffff30.css",
+    "main.js": "/online-exam-system/static/js/main.bcd9e8ef.js",
+    "static/js/453.fc548b8d.chunk.js": "/online-exam-system/static/js/453.fc548b8d.chunk.js",
+    "static/media/logo.svg": "/online-exam-system/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/online-exam-system/index.html",
+    "main.36ffff30.css.map": "/online-exam-system/static/css/main.36ffff30.css.map",
+    "main.bcd9e8ef.js.map": "/online-exam-system/static/js/main.bcd9e8ef.js.map",
+    "453.fc548b8d.chunk.js.map": "/online-exam-system/static/js/453.fc548b8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ffff30.css",
+    "static/js/main.bcd9e8ef.js"
+  ]
+}
